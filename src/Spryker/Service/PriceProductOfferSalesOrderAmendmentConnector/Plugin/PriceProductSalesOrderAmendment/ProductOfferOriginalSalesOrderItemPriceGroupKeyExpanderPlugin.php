@@ -11,6 +11,9 @@ use Generated\Shared\Transfer\ItemTransfer;
 use Spryker\Service\Kernel\AbstractPlugin;
 use Spryker\Service\PriceProductSalesOrderAmendmentExtension\Dependency\Plugin\OriginalSalesOrderItemPriceGroupKeyExpanderPluginInterface;
 
+/**
+ * @deprecated Use {@link \Spryker\Service\ProductOffer\Plugin\PriceProductSalesOrderAmendment\ProductOfferOriginalSalesOrderItemPriceGroupKeyExpanderPlugin} instead.
+ */
 class ProductOfferOriginalSalesOrderItemPriceGroupKeyExpanderPlugin extends AbstractPlugin implements OriginalSalesOrderItemPriceGroupKeyExpanderPluginInterface
 {
     /**
