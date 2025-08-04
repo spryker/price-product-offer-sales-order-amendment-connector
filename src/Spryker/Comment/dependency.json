@@ -1,6 +1,0 @@
-{
-    "include": {
-        "spryker/uuid-behavior": "Used to generate UUIDs for entities.",
-        "spryker/transfer": "Provides transfer objects definition with strict types."
-    }
-}

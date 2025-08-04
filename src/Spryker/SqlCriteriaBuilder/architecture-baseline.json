@@ -1,9 +1,0 @@
-[
-    {
-        "fileName": "src/Spryker/Shared/SqlCriteriaBuilder/CriteriaBuilder/CriteriaBuilderFactoryWorker.php",
-        "description": "Method `Spryker\\Shared\\SqlCriteriaBuilder\\CriteriaBuilder\\CriteriaBuilderFactoryWorker::buildCriteriaBuilder()` must have return type.",
-        "rule": "ExternalMethodExtensionReturnTypeRule",
-        "ruleset": "Spryker",
-        "priority": "1"
-    }
-]

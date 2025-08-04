@@ -1,6 +1,0 @@
-{
-    "include": {
-        "spryker/cart": "Added for forward compatibility.",
-        "spryker/transfer": "Provides transfer objects definition with strict types."
-    }
-}

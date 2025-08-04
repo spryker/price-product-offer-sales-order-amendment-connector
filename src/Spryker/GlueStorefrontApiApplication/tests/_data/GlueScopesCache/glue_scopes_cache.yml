@@ -1,5 +1,0 @@
-storefront:
-    - 'storefront:test:read'
-    - 'storefront:test:update'
-    - 'storefront:test:create'
-    - 'storefront:test:delete'

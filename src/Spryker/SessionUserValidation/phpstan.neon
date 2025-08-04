@@ -1,5 +1,0 @@
-parameters:
-    level: 8
-    reportUnmatchedIgnoredErrors: false
-    ignoreErrors:
-        - '#Call to an undefined method .+getUsername\(\).#'

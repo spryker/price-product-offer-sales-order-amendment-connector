@@ -1,8 +1,0 @@
-"Application %application% is not valid.","Anwendung %application% ist ungültig."
-"The default context is always required. When you want to add an Application-specific configuration, please click `Add store settings` and then change the APPLICATION value to the desired value.","Der Standardkontext ist immer erforderlich. Wenn Sie eine anwendungsspezifische Konfiguration hinzufügen möchten, klicken Sie bitte auf `Store-Einstellungen hinzufügen` und ändern Sie dann den Wert von APPLICATION auf den gewünschten Wert."
-"Application %application% is used more than once.","Anwendung %application% wird mehr als einmal verwendet."
-"Timezone %timezone% is not valid.","Zeitzone %timezone% ist ungültig."
-"Store context already exist for id: %id%.","Speichereinstellungen existieren bereits für ID: %id%."
-"Store context not found for store id: %id%.","Speichereinstellungen für Store-ID: %id% nicht gefunden."
-"Store context collection is missing.","Die Sammlung der Speichereinstellungen fehlt."
-"Store is missing in store context.","Der Store fehlt im Store-Kontext."

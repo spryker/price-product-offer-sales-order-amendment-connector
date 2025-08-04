@@ -1,6 +1,0 @@
-{
-    "include": {
-        "spryker/cart-note": "This module provides base functionality of cart notes.",
-        "spryker/transfer": "Provides transfer objects definition with `::get*OrFail()` functionality."
-    }
-}

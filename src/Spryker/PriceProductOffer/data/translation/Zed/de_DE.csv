@@ -1,4 +1,0 @@
-"The set of Store and Currency needs to be unique.","Die Kombination aus Store und Währung wird bereits verwendet."
-"This value should be equal or greater than {{ compared_value }} or empty.","Dieser Wert sollte gleich oder größer sein als {{ compared_value }} oder leer sein."
-"This field is missing.","Dieses Feld fehlt."
-"Currency {{ currency }} is not assigned to the store {{ store }}","Die Währung {{ currency }} ist diesem Store nicht zugewiesen."

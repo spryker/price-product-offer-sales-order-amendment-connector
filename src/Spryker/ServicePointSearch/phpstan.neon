@@ -1,4 +1,0 @@
-parameters:
-    level: 8
-    excludePaths:
-        - '%rootDir%/../../../vendor/spryker/spryker/Bundles/ServicePointSearch/src/Spryker/Client/ServicePointSearch/Plugin/Elasticsearch/Query/'

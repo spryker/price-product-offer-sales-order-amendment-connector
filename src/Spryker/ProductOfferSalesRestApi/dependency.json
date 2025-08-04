@@ -1,5 +1,0 @@
-{
-    "include": {
-        "spryker/product-offer-sales": "Added for forward compatibility."
-    }
-}

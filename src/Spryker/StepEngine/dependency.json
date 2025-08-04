@@ -1,6 +1,0 @@
-{
-    "include": {},
-    "exclude": {
-        "spryker/messenger": "Required by tests"
-    }
-}

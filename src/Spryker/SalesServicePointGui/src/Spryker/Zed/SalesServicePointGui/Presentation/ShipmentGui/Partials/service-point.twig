@@ -1,6 +1,0 @@
-{# @var item \Generated\Shared\Transfer\ItemTransfer #}
-{# @var item.salesOrderItemServicePoint \Generated\Shared\Transfer\SalesOrderItemServicePointTransfer #}
-{% set item = items | first %}
-{% if item.salesOrderItemServicePoint.name is defined %}
-    {{ item.salesOrderItemServicePoint.name | trim }},
-{% endif %}

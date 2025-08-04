@@ -1,6 +1,0 @@
-{
-    "include": {
-        "spryker/configurable-bundle": "ConfigurableBundle provides base functionality.",
-        "spryker/transfer": "Provides transfer objects definition with strict types."
-    }
-}

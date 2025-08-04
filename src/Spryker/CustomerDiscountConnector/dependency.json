@@ -1,6 +1,0 @@
-{
-    "include": {
-        "spryker/customer": "Added for forward compatibility.",
-        "spryker/transfer": "Added for using methods get...OrFail()."
-    }
-}

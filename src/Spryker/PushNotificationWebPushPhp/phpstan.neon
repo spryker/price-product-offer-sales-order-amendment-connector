@@ -1,4 +1,0 @@
-parameters:
-    level: 8
-    ignoreErrors:
-        - '#Cannot call method getResponse\(\) on class-string|object\.#'

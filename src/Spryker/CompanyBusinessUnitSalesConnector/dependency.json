@@ -1,5 +1,0 @@
-{
-    "include": {
-        "spryker/company-business-unit": "Defined for forward-compatibility reasons."
-    }
-}

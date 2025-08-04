@@ -1,5 +1,0 @@
-{
-    "include": {
-        "spryker/transfer": "Transfer is required for new `getOrFail` functionality."
-    }
-}

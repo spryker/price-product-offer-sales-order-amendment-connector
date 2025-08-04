@@ -1,5 +1,0 @@
-{
-    "include": {
-        "spryker/zed-ui": "Zed UI provides layout templates and frontend infrastructure."
-    }
-}

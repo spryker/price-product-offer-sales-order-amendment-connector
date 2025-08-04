@@ -1,8 +1,0 @@
-parameters:
-    level: 8
-    checkGenericClassInNonGenericObjectType: false
-    ignoreErrors:
-        - '#Call to an undefined method Orm\\.+Query::groupByIdProduct\(\).#'
-        - '#Call to an undefined method Orm\\.+Query::filterByFkProduct_In\(\).#'
-        - '#Call to an undefined method Orm\\.+Query::useSpyProductLocalizedAttributesQuery\(\).#'
-

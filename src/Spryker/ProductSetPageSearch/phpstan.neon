@@ -1,5 +1,0 @@
-parameters:
-    level: 7
-    checkMissingIterableValueType: false
-    excludePaths:
-        - '%rootDir%/../../../vendor/spryker/spryker/Bundles/ProductSetPageSearch/src/Spryker/Client/ProductSetPageSearch/Plugin/Elasticsearch/Query/ProductSetPageSearchListQueryPlugin.php'

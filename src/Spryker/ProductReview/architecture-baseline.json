@@ -1,9 +1,0 @@
-[
-    {
-        "fileName": "src/Spryker/Yves/ProductReview/Twig/ProductAbstractReviewTwigExtension.php",
-        "description": "Method `Spryker\\Yves\\ProductReview\\Twig\\ProductAbstractReviewTwigExtension::getFunctions()` must have return type.",
-        "rule": "ExternalMethodExtensionReturnTypeRule",
-        "ruleset": "Spryker",
-        "priority": "1"
-    }
-]

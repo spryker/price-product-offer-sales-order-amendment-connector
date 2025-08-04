@@ -1,4 +1,0 @@
-parameters:
-    level: 8
-    excludePaths:
-        - '%rootDir%/../../../vendor/spryker/spryker/Bundles/ClickAndCollectExample/src/Spryker/Zed/ClickAndCollectExample/Persistence/ClickAndCollectExampleRepository.php'

@@ -1,5 +1,0 @@
-parameters:
-    level: 8
-    checkMissingIterableValueType: false
-    ignoreErrors:
-        - '#Dead catch - JsonException is never thrown in the try block.#'
