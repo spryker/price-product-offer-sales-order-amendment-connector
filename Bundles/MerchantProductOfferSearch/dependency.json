@@ -1,6 +1,0 @@
-{
-    "include": {
-        "spryker/merchant-product-offer": "MerchantProductOffer provides merchant in product offer.",
-        "spryker/transfer": "Provides transfer objects definition with `::get*OrFail()` functionality."
-    }
-}

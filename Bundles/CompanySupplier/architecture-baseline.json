@@ -1,9 +1,0 @@
-[
-    {
-        "fileName": "src/Spryker/Zed/CompanySupplier/Persistence/CompanySupplierPersistenceFactory.php",
-        "description": "A `create*Query()` method must look like `return Spy*Query::create();`. `Spryker\\Zed\\CompanySupplier\\Persistence\\CompanySupplierPersistenceFactory::createCompanyQuery()` violates this rule.",
-        "rule": "FactoryCreateContainOneNewRule",
-        "ruleset": "Spryker",
-        "priority": "1"
-    }
-]

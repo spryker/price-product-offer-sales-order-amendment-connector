@@ -1,1 +1,0 @@
-Displays a contacts list.

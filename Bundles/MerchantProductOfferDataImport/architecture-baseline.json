@@ -1,9 +1,0 @@
-[
-    {
-        "fileName": "src/Spryker/Zed/MerchantProductOfferDataImport/Dependency/Facade/MerchantProductOfferDataImportToEventBridge.php",
-        "description": "Bridges: Type should be defined for param `eventName` in method `Spryker\\Zed\\MerchantProductOfferDataImport\\Dependency\\Facade\\MerchantProductOfferDataImportToEventBridge::trigger()`.",
-        "rule": "BridgeMethodsRule",
-        "ruleset": "Spryker",
-        "priority": "2"
-    }
-]

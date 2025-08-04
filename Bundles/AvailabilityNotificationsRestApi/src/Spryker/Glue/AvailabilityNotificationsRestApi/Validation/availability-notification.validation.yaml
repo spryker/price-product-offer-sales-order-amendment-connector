@@ -1,7 +1,0 @@
-availability-notifications:
-    post:
-        sku:
-            - NotBlank
-        email:
-            - NotBlank
-            - Email

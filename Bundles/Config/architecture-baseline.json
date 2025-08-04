@@ -1,9 +1,0 @@
-[
-    {
-        "fileName": "src/Spryker/Shared/Config/Profiler/ConfigProfilerCollector.php",
-        "description": "Method `Spryker\\Shared\\Config\\Profiler\\ConfigProfilerCollector::getName()` must have return type.",
-        "rule": "ExternalMethodExtensionReturnTypeRule",
-        "ruleset": "Spryker",
-        "priority": "1"
-    }
-]

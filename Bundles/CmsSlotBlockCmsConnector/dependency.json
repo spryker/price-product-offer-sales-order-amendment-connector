@@ -1,6 +1,0 @@
-{
-    "include": {
-        "spryker/cms": "Provides CMS Page data from database.",
-        "spryker/transfer": "Provides transfer objects definition with associative functionality."
-    }
-}

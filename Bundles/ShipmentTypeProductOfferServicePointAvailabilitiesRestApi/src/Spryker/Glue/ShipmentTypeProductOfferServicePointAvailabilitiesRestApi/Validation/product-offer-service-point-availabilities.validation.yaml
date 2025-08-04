@@ -1,6 +1,0 @@
-product-offer-service-point-availabilities:
-    post:
-        shipmentTypeUuid:
-            - Optional:
-                  constraints:
-                      - NotBlank

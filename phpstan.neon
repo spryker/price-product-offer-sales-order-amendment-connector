@@ -1,19 +1,2 @@
-# !!! This is the fallback file for running core phpstan check !!!
-# Please use phpstan.neon file per module now and `console code:phpstan -m Spryker.ModuleName` instead.
-# Also set the highest defaultLevel possible.
-includes:
-    - ../../spryker-sdk/phpstan-spryker/extension.neon
-
 parameters:
-    bootstrapFiles:
-        - '%rootDir%/../../../phpstan-bootstrap.php'
-    parallel:
-        processTimeout: 300.0
-    featureToggles:
-        bleedingEdge: true
-
-    dynamicConstantNames:
-        - APPLICATION
-        - APPLICATION_ENV
-        - APPLICATION_STORE
-        - APPLICATION_CODE_BUCKET
+    level: 8

@@ -1,6 +1,0 @@
-{
-    "include": {
-        "spryker/product-packaging-unit": "Provides the functional part.",
-        "spryker/transfer": "Provides transfer objects definition with strict types."
-    }
-}

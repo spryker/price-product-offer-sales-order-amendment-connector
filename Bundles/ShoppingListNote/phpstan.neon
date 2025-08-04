@@ -1,6 +1,0 @@
-parameters:
-    level: 7
-    checkMissingIterableValueType: false
-    reportUnmatchedIgnoredErrors: false
-    ignoreErrors:
-        - '#Negated boolean expression is always true.#'

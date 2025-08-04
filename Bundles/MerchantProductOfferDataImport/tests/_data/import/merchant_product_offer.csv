@@ -1,8 +1,0 @@
-product_offer_reference,concrete_sku,merchant_reference,merchant_sku,is_active,approval_status
-offer1,671261249,MER000001,GS952M00H-Q11,1,approved
-offer2,171261249,MER000002,,1,approved
-offer3,271261249,MER000001,M9122A0AQ-C11,1,approved
-offer4,271261249,MER000002,M9122A0AQ-C11,1,approved
-offer5,371261249,MER000001,TH344E01G-Q11,1,approved
-offer6,371261249,MER000002,OB054P005-Q11,1,approved
-offer7,471261249,MER000001,,1,approved

@@ -1,5 +1,0 @@
-{
-    "include": {
-        "spryker/merchant-sales-order": "Provides database table which MerchantOms module extends."
-    }
-}

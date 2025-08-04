@@ -1,5 +1,0 @@
-{
-    "include": {
-        "spryker/transfer": "Required to use merging strategy as default for descriptions."
-    }
-}

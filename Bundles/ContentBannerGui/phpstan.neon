@@ -1,5 +1,0 @@
-parameters:
-    level: 8
-    checkMissingIterableValueType: false
-    ignoreErrors:
-        - '#Cannot call method getData\(\) on .+FormInterface\|null.#'

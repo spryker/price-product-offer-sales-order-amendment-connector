@@ -1,5 +1,0 @@
-{
-    "include": {
-        "spryker/twig": "Provides `executeFilterIfExists` filter functionality."
-    }
-}

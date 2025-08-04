@@ -1,6 +1,0 @@
-{
-    "include": {
-        "spryker/symfony": "Used to send the response",
-        "spryker/transfer": "Provides transfer objects definition with strict types."
-    }
-}

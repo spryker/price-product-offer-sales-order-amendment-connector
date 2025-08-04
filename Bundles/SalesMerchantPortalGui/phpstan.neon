@@ -1,5 +1,0 @@
-parameters:
-    level: 8
-    ignoreErrors:
-        - '#Method .+ should return .+Query but returns .+Criteria#'
-        - '#Call to an undefined method Orm\\Zed\\.+::joinWithStateMachineItemState\(\)#'

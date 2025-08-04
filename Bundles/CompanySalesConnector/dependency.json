@@ -1,5 +1,0 @@
-{
-    "include": {
-        "spryker/company": "Defined for forward-compatibility reasons."
-    }
-}

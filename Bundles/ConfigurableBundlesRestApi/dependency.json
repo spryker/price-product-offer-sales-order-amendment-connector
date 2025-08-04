@@ -1,5 +1,0 @@
-{
-    "include": {
-        "spryker/configurable-bundle": "ConfigurableBundle module provides base functionality for configurable bundle feature."
-    }
-}

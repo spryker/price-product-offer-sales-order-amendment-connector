@@ -1,9 +1,0 @@
-shared-carts:
-    post:
-        idCompanyUser:
-            - NotBlank
-        idCartPermissionGroup:
-            - NotBlank
-    patch:
-        idCartPermissionGroup:
-            - NotBlank

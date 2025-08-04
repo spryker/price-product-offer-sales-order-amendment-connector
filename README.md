@@ -1,15 +1,17 @@
-# Spryker Commerce OS
+# PriceProductOfferSalesOrderAmendmentConnector Module
+[![Latest Stable Version](https://poser.pugx.org/spryker/price-product-offer-sales-order-amendment-connector/v/stable.svg)](https://packagist.org/packages/spryker/price-product-offer-sales-order-amendment-connector)
+[![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%208.2-8892BF.svg)](https://php.net/)
 
-## Core Modules
+PriceProductOfferSalesOrderAmendmentConnector module provides product offer prices related functionality for sales order amendment.
 
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/spryker/spryker-core/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/spryker/spryker-core/?branch=master)
-[![Minimum PHP Version](http://img.shields.io/badge/php-%3E%3D%208.1-8892BF.svg)](https://php.net/)
+**DEPRECATED - This module is not continued at this point.**
 
-This is a mono-repo of our Spryker modules.
-If you want to make a PR with suggested changes, please do so in the specific module repository
-`https://github.com/spryker/{module-name}`.
+## Installation
 
-### Links
-- **[Spryker Documentation](https://docs.spryker.com/)**
+```
+composer require spryker/price-product-offer-sales-order-amendment-connector
+```
 
+## Documentation
 
+[Spryker Documentation](https://docs.spryker.com)

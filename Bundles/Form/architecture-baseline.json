@@ -1,9 +1,0 @@
-[
-    {
-        "fileName": "src/Spryker/Shared/Form/DoubleSubmitProtection/Subscriber/FormEventSubscriber.php",
-        "description": "Method `Spryker\\Shared\\Form\\DoubleSubmitProtection\\Subscriber\\FormEventSubscriber::getSubscribedEvents()` must have return type.",
-        "rule": "ExternalMethodExtensionReturnTypeRule",
-        "ruleset": "Spryker",
-        "priority": "1"
-    }
-]

@@ -1,6 +1,0 @@
-{
-    "include": {
-        "spryker/product-offer": "Added for forward compatibility.",
-        "spryker/transfer": "Provides transfer objects definition with `::get*OrFail()` functionality."
-    }
-}

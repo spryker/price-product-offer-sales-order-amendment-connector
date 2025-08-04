@@ -1,9 +1,0 @@
-{% for field in userForm.children %}
-
-    {% if field.vars.attr.template_path is defined %}
-        {% include field.vars.attr.template_path with {'userForm': userForm} %}
-    {% else %}
-        {{ form_row(field) }}
-    {% endif %}
-
-{% endfor %}

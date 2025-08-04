@@ -1,5 +1,0 @@
-parameters:
-    level: 8
-    checkGenericClassInNonGenericObjectType: false
-    ignoreErrors:
-        - '#Call to an undefined method .+SpyUrlQuery::useSpyProductLocalizedAttributesQuery\(\).#'

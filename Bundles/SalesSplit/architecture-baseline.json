@@ -1,9 +1,0 @@
-[
-    {
-        "fileName": "src/Spryker/Zed/SalesSplit/Communication/Form/OrderItemSplitForm.php",
-        "description": "Method `Spryker\\Zed\\SalesSplit\\Communication\\Form\\OrderItemSplitForm::getBlockPrefix()` must have return type.",
-        "rule": "ExternalMethodExtensionReturnTypeRule",
-        "ruleset": "Spryker",
-        "priority": "1"
-    }
-]

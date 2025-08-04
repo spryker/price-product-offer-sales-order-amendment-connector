@@ -1,9 +1,0 @@
-[
-    {
-        "fileName": "src/Spryker/Zed/AvailabilityDataFeed/Dependency/QueryContainer/AvailabilityDataFeedToAvailabilityBridge.php",
-        "description": "Bridges: Type should be defined for param `idLocale` in method `Spryker\\Zed\\AvailabilityDataFeed\\Dependency\\QueryContainer\\AvailabilityDataFeedToAvailabilityBridge::queryAvailabilityWithStockByIdLocale()`.",
-        "rule": "BridgeMethodsRule",
-        "ruleset": "Spryker",
-        "priority": "2"
-    }
-]

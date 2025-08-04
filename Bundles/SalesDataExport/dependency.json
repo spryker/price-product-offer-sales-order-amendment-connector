@@ -1,6 +1,0 @@
-{
-    "include": {
-        "spryker/transfer": "Provides transfer objects definition with associative functionality.",
-        "spryker/sales-oms": "SalesDataExport depends on SalesOms functionality."
-    }
-}

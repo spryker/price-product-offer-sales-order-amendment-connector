@@ -1,6 +1,0 @@
-namespace: SprykerTest\Shared\User
-paths:
-    tests: .
-    data: ../../../_data
-    support: _support
-    output: ../../../_output

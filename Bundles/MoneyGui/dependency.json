@@ -1,6 +1,0 @@
-{
-    "include": {
-        "spryker/money": "Defined for forward-compatibility reasons.",
-        "spryker/transfer": "Provides transfer objects definition with `::get*OrFail()` functionality."
-    }
-}

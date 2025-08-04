@@ -1,5 +1,0 @@
-{
-    "include": {
-        "spryker/product-approval": "Provides `spy_product_abstract.approval_status` database table column."
-    }
-}

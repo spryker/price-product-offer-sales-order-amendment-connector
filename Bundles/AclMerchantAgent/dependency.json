@@ -1,7 +1,0 @@
-{
-    "include": {
-        "spryker/acl": "Added for forward compatibility.",
-        "spryker/merchant-agent": "Added for forward compatibility.",
-        "spryker/transfer": "Provides transfer objects definition with strict types."
-    }
-}

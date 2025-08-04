@@ -1,1 +1,0 @@
-Renders table for dashboard.

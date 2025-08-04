@@ -1,5 +1,0 @@
-{
-    "include": {
-        "spryker/transfer": "Transfer provides attributes meta-data."
-    }
-}

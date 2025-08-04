@@ -1,5 +1,0 @@
-{
-    "include": {
-        "spryker/product-offer-validity": "Not used at the moment, added as required in order to avoid major in the future."
-    }
-}

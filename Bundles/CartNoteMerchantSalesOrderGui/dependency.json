@@ -1,5 +1,0 @@
-{
-    "include": {
-        "spryker/cart-note": "Requires Twig file to run controller action."
-    }
-}

@@ -1,9 +1,0 @@
-[
-    {
-        "fileName": "src/Spryker/Zed/PublishAndSynchronizeHealthCheckStorage/Dependency/Client/PublishAndSynchronizeHealthCheckStorageToStorageClientBridge.php",
-        "description": "Bridges: Type should be defined for param `key` in method `Spryker\\Zed\\PublishAndSynchronizeHealthCheckStorage\\Dependency\\Client\\PublishAndSynchronizeHealthCheckStorageToStorageClientBridge::get()`.",
-        "rule": "BridgeMethodsRule",
-        "ruleset": "Spryker",
-        "priority": "2"
-    }
-]

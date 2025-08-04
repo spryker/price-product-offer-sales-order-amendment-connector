@@ -1,4 +1,0 @@
-parameters:
-    level: 8
-    ignoreErrors:
-        - '#Parameter \#1 \$jsonValue of method .+ProductsBackedApiToUtilEncodingServiceInterface\:\:decodeJson\(\) expects string, array given.#'
