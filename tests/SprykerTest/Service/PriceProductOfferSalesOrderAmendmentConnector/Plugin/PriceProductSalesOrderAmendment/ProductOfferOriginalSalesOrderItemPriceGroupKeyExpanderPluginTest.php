@@ -5,7 +5,7 @@
  * Use of this software requires acceptance of the Evaluation License Agreement. See LICENSE file.
  */
 
-namespace SprykerTest\Service\PriceProductOfferSalesOrderAmendmentConnector\Service\Plugin\PriceProductSalesOrderAmendment;
+namespace SprykerTest\Service\PriceProductOfferSalesOrderAmendmentConnector\Plugin\PriceProductSalesOrderAmendment;
 
 use Codeception\Test\Unit;
 use Generated\Shared\Transfer\ItemTransfer;
@@ -17,7 +17,6 @@ use Spryker\Service\PriceProductOfferSalesOrderAmendmentConnector\Plugin\PricePr
  * @group SprykerTest
  * @group Service
  * @group PriceProductOfferSalesOrderAmendmentConnector
- * @group Service
  * @group Plugin
  * @group PriceProductSalesOrderAmendment
  * @group ProductOfferOriginalSalesOrderItemPriceGroupKeyExpanderPluginTest
@@ -25,9 +24,6 @@ use Spryker\Service\PriceProductOfferSalesOrderAmendmentConnector\Plugin\PricePr
  */
 class ProductOfferOriginalSalesOrderItemPriceGroupKeyExpanderPluginTest extends Unit
 {
-    /**
-     * @return void
-     */
     public function testShouldDoNothingWhenItemProductOfferReferenceIsNotSet(): void
     {
         // Arrange
@@ -41,9 +37,6 @@ class ProductOfferOriginalSalesOrderItemPriceGroupKeyExpanderPluginTest extends 
         $this->assertSame($groupKey, $expandedGroupKey);
     }
 
-    /**
-     * @return void
-     */
     public function testShouldExpandItemWithProductOfferReferenceWhenItIsSet(): void
     {
         // Arrange
